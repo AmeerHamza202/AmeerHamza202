@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ameer Hamza</h1>
 <h3 align="center">A passionate Flutter and frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRpMTJmMnhxY3VrZnV5OGVhZzU1dmJmaGJpNHNpbHN1cXJ4OTExNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif">
+<img align="right" alt="coding" width="300" src="<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/37330bfe-14fb-407a-ac5d-95d156dfc26a" />
+">
 
 
   
