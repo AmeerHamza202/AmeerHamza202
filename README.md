@@ -5,6 +5,14 @@
 
 
 <div align="center">
+    <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Programming+isn't+about+what+you+know...;It's+about+what+you+can+figure+out.;while(!success)+try](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Programming+isn't+about+what+you+know...;It's+about+what+you+can+figure+out.;while(!success)+try)();" alt="Animated Typing Quote">
+</div>
+
+<br>
+
+---
+
+<h3 align="center">My GitHub Stats & Trophies</h3>
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
