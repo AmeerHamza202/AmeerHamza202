@@ -4,17 +4,13 @@
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDRpMTJmMnhxY3VrZnV5OGVhZzU1dmJmaGJpNHNpbHN1cXJ4OTExNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif">
 
 
+  
 <div align="center">
     <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Programming+isn't+about+what+you+know...;It's+about+what+you+can+figure+out.;while(!success)+try](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&lines=Programming+isn't+about+what+you+know...;It's+about+what+you+can+figure+out.;while(!success)+try)();" alt="Animated Typing Quote">
 </div>
 
 <br>
 
----
-
-<h3 align="center">My GitHub Stats & Trophies</h3>
-  
-```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -34,7 +30,8 @@
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
+
+<h3 align="center">My GitHub Stats & Trophies</h3>
   
 </div>
 
