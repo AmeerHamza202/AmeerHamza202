@@ -36,17 +36,14 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameerhamza202&theme=radical" />
 
 
-- 🔭 I’m currently working on **Admove My University FYP**
 
-- 🌱 I’m currently learning **Backend development and databases**
+### 🧠 About Me  
+- 🚀 Building **AdMove** — Ad screens on vehicles using Flutter & Firebase  
+- 🧩 Experienced in , **.NET**, and **Web Development**  
+- 🌱 Currently learning **AI integrations & modern UI/UX animations**    
+- 📫 Reach me at **ameer.hamza@example.com**
 
-- 💬 Ask me about **Flutter, Frontend Development and Networking IT**
-
-- 📫 How to reach me **hamza8033am@gmail.com**
-
-- 📄 Know about my experiences [ameer-hamza-cv.tiiny.site](ameer-hamza-cv.tiiny.site)
-
-- ⚡ Fun fact **I think i can be good developer in Future**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
