@@ -43,7 +43,7 @@
 - 🚀 Building **AdMove** — Ad screens on vehicles using Flutter & Firebase  
 - 🧩 Experienced in , **.NET**, and **Web Development**  
 - 🌱 Currently learning **AI integrations & modern UI/UX animations**    
-- 📫 Reach me at **ameer.hamza@example.com**
+- 📫 Reach me at **hamza8033am@gmail.com**
 - 🧠 Built **Diabetes Prediction System** using Machine Learning
 - ⚙️ Created **Complaint Management System** in **ASP.NET MVC**
 
